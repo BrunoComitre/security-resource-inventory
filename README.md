@@ -11,7 +11,7 @@
 ## [Index](#index)
 
 - [TO-DO](#to-do)
-- [What is Computer Science](#what-is-computer-science)
+- [What is Web Security](#what-is-web-security)
 - [Mentors and Role Models](#mentors-and-role-models)
 - [Learning Platforms](#learning-platforms)
   - [Open and Massive Online Course](#open-and-massive-online-course)
