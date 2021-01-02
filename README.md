@@ -140,9 +140,10 @@ Below is a list of personal and company websites aimed at Security in general:
 
 - [Ret2](https://blog.ret2.io/2018/07/25/pwn2own-2018-safari-sandbox/)
 - [nmask's](https://thief.one/2018/01/11/1/)
+- [Nmask's Blog](https://nmask.cn/2018/01/11/1/)
 - [wilson](http://blog.wils0n.cn/)
-- [leavesongs](https://www.leavesongs.com/)
-- [mochazz](https://mochazz.github.io/)
+- [Leavesongs](https://www.leavesongs.com/)
+- [Mochazz's](https://mochazz.github.io/)
 - [lorexxar](https://lorexxar.cn/)
 - [baixacultura](http://baixacultura.org/)
 - [securityaffairs](https://securityaffairs.co/wordpress/80218/hacking/php-pear-site-hacked.html)
@@ -183,6 +184,7 @@ Magazine related links:
 
 - [Alexander Polyakov](https://medium.com/@alexanderpolyakov)
 - [Cybersecurity Opinion & Analysis](https://medium.com/secjuice/opinion/home)
+- [InfoSec Write-ups](https://medium.com/bugbountywriteup)
 
 [GO TO INDEX](#index)
 
@@ -377,6 +379,8 @@ Links from different sites:
 - [OWASP Zed Attack Proxy - Web application vulnerability testing tool](https://blog.corujadeti.com.br/owasp-zed-attack-proxy-ferramenta-para-teste-de-vulnerabilidades-em-aplicacoes-web/)
 - [Intercepting connections with OWASP Zed Attack Proxy](https://tobias.ws/interceptando-conexoes-com-owasp-zed-attack-proxy/)
 - [owasp zap windows](https://www.google.com/search?q=owasp+zap+windows&oq=OWASP+ZAP+w&aqs=chrome.1.69i57j0l4j69i60l3.4439j0j4&sourceid=chrome&ie=UTF-8)
+- [Web Security Academy](https://portswigger.net/web-security)
+- [Free Cybersecurity Community Resources and Programs](https://www.sans.org/free/)
 
 [GO TO INDEX](#index)
 
