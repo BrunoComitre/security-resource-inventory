@@ -305,6 +305,27 @@ Security and Web Security study projects:
 - [Cliente JavaScript](https://github.com/psi-project/client)
 - [invólucro sklearn](https://github.com/psi-project/sklearn-wrapper)
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+- [Application Security](https://github.com/paragonie/awesome-appsec#readme)
+- [Security](https://github.com/sbilly/awesome-security#readme)
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
+- [Android Security](https://github.com/ashishb/android-security-awesome#readme)
+- [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
+- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
+- [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+- [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [qark](https://github.com/linkedin/qark) - This tool is designed to look for several security related Android application vulnerabilities, either in source code or packaged APKs.
+- [house](https://github.com/nccgroup/house/) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
+- [payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypasses for Web Application Security.
+- [No Code](https://github.com/kelseyhightower/nocode) - No code is the best way to write secure and reliable applications.
+- [Payloads All The Thing](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [Welcome to the OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries)
+- [check-cve-2019-19781](https://github.com/cisagov/check-cve-2019-19781)
 
 [GO TO INDEX](#index)
 
@@ -383,6 +404,7 @@ Links from different sites:
 - [Web Security Academy](https://portswigger.net/web-security)
 - [Free Cybersecurity Community Resources and Programs](https://www.sans.org/free/)
 - [Chaos Computer Club](https://www.ccc.de/en/)
+- [How I developed a full-fledged Security Operations Centre using ELK Stack?](https://medium.com/bugbountywriteup/how-i-developed-a-full-fledged-security-operations-centre-using-elk-stack-8dfaec821e23)
 
 [GO TO INDEX](#index)
 
