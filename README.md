@@ -53,6 +53,7 @@ Below is a list of favorite sites that have a variety of topics related to web s
 - [Top 5 REST API security guidelines](https://blog.restcase.com/top-5-rest-api-security-guidelines/) - Article.
 - [The truth about cybersecurity machine learning: defense](https://www.forbes.com/sites/forbestechcouncil/2017/11/30/the-truth-about-machine-learning-in-cybersecurity-defense/#44f872e26949) - Article.
 - [Cybersecurity career planning](https://medium.com/@alexanderpolyakov/cyber-security-career-planning-447baa967b42) - Article.
+- [Ethical Hacker](https://www.portalgsti.com.br/profissoes-de-ti/hacker-etico/)
 
 [GO TO INDEX](#index)
 
@@ -381,6 +382,7 @@ Links from different sites:
 - [owasp zap windows](https://www.google.com/search?q=owasp+zap+windows&oq=OWASP+ZAP+w&aqs=chrome.1.69i57j0l4j69i60l3.4439j0j4&sourceid=chrome&ie=UTF-8)
 - [Web Security Academy](https://portswigger.net/web-security)
 - [Free Cybersecurity Community Resources and Programs](https://www.sans.org/free/)
+- [Chaos Computer Club](https://www.ccc.de/en/)
 
 [GO TO INDEX](#index)
 
