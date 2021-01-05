@@ -318,6 +318,7 @@ Security and Web Security study projects:
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
 - [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [ReconNote](https://github.com/0xdekster/ReconNote) - Recon Automation Framework for Web Application Security.
 - [qark](https://github.com/linkedin/qark) - This tool is designed to look for several security related Android application vulnerabilities, either in source code or packaged APKs.
 - [house](https://github.com/nccgroup/house/) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
