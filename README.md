@@ -186,6 +186,9 @@ Magazine related links:
 - [Alexander Polyakov](https://medium.com/@alexanderpolyakov)
 - [Cybersecurity Opinion & Analysis](https://medium.com/secjuice/opinion/home)
 - [InfoSec Write-ups](https://medium.com/bugbountywriteup)
+- [Gabriel Barbosa](https://medium.com/@gabu_b)
+- [Pentestit](https://pentestit.medium.com/)
+- [dl padmavathi](https://dlpadmavathi-us.medium.com/)
 
 [GO TO INDEX](#index)
 
@@ -195,7 +198,7 @@ Magazine related links:
 
 Below are lists with more content that increase the capacity to study:
 
-- [TEXT](LINK)
+- [The Cipher Podcast](https://podcasts.apple.com/br/podcast/the-cipher-podcast/id1505432054?l=en)
 - [TEXT](LINK)
 
 [GO TO INDEX](#index)
@@ -274,7 +277,6 @@ Security studies using machine learning
 - [The ADFA Intrusion Detection Datasets](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-IDS-Datasets/)
 - [Stratosphere Research Laboratory](https://www.stratosphereips.org/about-stratosphere)
 - [Deep Learning for online fraud prevention](https://www.buguroo.com/)
-- [Machine Learning for Computer Security](http://www.mlsec.org/)
 - [Machine Learning for Cybersecurity 101](https://towardsdatascience.com/machine-learning-for-cybersecurity-101-7822b802790b)
 - [Cyber Data Science Datasets](https://cyberdatascientist.com/datasets/)
 - [Cyber Research Center - Datasets](https://www.westpoint.edu/centers-and-research/cyber-research-center/data-sets)
@@ -327,6 +329,7 @@ Security and Web Security study projects:
 - [Payloads All The Thing](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Welcome to the OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries)
 - [check-cve-2019-19781](https://github.com/cisagov/check-cve-2019-19781)
+- [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
 
 [GO TO INDEX](#index)
 
@@ -342,7 +345,6 @@ Links from different sites:
 - [Making a firewall with Raspberry](https://www.dobitaobyte.com.br/fazendo-um-firewall-com-raspberry/)
 - [Creating a Network Tap (network clamp) for Sniffing](https://pythoneiro.blogspot.com/2015/05/criando-um-network-tap-grampo-de-rede.html)
 - [Automated Keyword Extraction from Articles using NLP](https://medium.com/analytics-vidhya/automated-keyword-extraction-from-articles-using-nlp-bfd864f41b34)
-- [Python for Cybersecurity — Lesson 1: Introduction to Python](https://medium.com/cyberdefendersprogram/python-for-cyber-security-lesson-1-introduction-to-python-1976d817976)
 - [Architecting a Machine Learning System for Risk](https://medium.com/airbnb-engineering/architecting-a-machine-learning-system-for-risk-941abbba5a60)
 - [Information Retrieval using Boolean Query in Python](https://medium.com/voice-tech-podcast/information-retrieval-using-boolean-query-in-python-e0ea9bf57f76)
 - [MMM: Multi-stage Multi-task Learning for Multi-choice Reading Comprehension](https://arxiv.org/pdf/1910.00458.pdf)
@@ -375,8 +377,6 @@ Links from different sites:
 - [Autistici/Inventati](https://www.autistici.org/)
 - [UNIX Universe Library](https://cs.unixuniverse.com.br/cloud/index.php/s/322QdTKzmewQste?path=%2F)
 - [ahmia](https://ahmia.fi/)
-- [Appknox](https://appknox.org/)
-- [ImmuniWeb](https://www.immuniweb.com/mobile/?id=QQXgDivL)
 - [Android Mirror Screen on Laptop | ADB Without USB Cable](https://www.youtube.com/watch?v=_fxFGxvu-yU)
 - [A Beginners Guide to the Drupal Services Module](https://www.ostraining.com/blog/drupal/services/)
 - [hackerone](https://www.hackerone.com/)
@@ -388,14 +388,11 @@ Links from different sites:
 - [Linux Servers, How-To Guide](https://www.hardware.com.br/livros/servidores-linux/)
 - [Startpage](https://www.startpage.com/pt/#hmb) - Standard search engine without crawling.
 - [Riseup](https://riseup.net/) - It offers online communication tools for people and groups working for liberating social changes.
-- [Architecting a Machine Learning System for Risk](https://medium.com/airbnb-engineering/architecting-a-machine-learning-system-for-risk-941abbba5a60)
 - [MITM can be pretty easy with Mitmproxy and Python](https://medium.com/xcnotes/mitm-can-be-pretty-easy-with-mitmproxy-and-python-d5293f94d41)
 - [Walar LGPD Microsoft Office](https://www.walar.com.br/)
 - [Pixeon health with technology](https://www.pixeon.com/)
 - [Monorepo](https://www.google.com/search?sxsrf=ALeKk033JXTbzwQB6t7phOHPpfVhjNZTGA:1586952863695&q=Monorepo&spell=1&sa=X&ved=2ahUKEwiet9yNtOroAhUzH7kGHdcUDXkQBSgAegQIERAq)
 - [MITM Modes of Operation](https://docs.mitmproxy.org/stable/concepts-modes/)
-- [Python for Cybersecurity - Lesson 1: Introduction to Python](https://medium.com/cyberdefendersprogram/python-for-cyber-security-lesson-1-introduction-to-python-1976d817976) - Python Web for Cyber Security.
-- [Architecture of a machine learning system for risks](https://medium.com/airbnb-engineering/architecting-a-machine-learning-system-for-risk-941abbba5a60) - Article.
 - [Mobile App Scan](https://www.immuniweb.com/mobile/?id=QQXgDivL) - Free online security tool to test your security.
 - [Orange3](https://orange.biolab.si/) - Machine learning user interface with drag and drop modeling, visualization, data management and more.
 - [Protocols and frameworks for inference machine learning as a service](http://psikit.net/) - An architecture for presenting machine learning algorithms, their inputs (data) and outputs (predictors) as resource-oriented RESTful web services, in order to make machine learning technology accessible to a wide range of people than just machine learning.
@@ -406,6 +403,14 @@ Links from different sites:
 - [Free Cybersecurity Community Resources and Programs](https://www.sans.org/free/)
 - [Chaos Computer Club](https://www.ccc.de/en/)
 - [How I developed a full-fledged Security Operations Centre using ELK Stack?](https://medium.com/bugbountywriteup/how-i-developed-a-full-fledged-security-operations-centre-using-elk-stack-8dfaec821e23)
+- [Vulnerabilities found in the OWASP Juice Shop](https://pwning.owasp-juice.shop/part1/categories.html)
+- [OWASP Automated Threats to Web Applications](https://owasp.org/www-project-automated-threats-to-web-applications/)
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+- [Pwning OWASP Juice Shop](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/cryptographic-issues.html)
+- [PCI Compliance (PCI DSS): what is it and why to worry?](https://blog.vindi.com.br/pci-compliance-o-que-e-e-por-que-sua-empresa-deveria-se-preocupar-com-isso/)
+- [Payment card industry (PCI) Data form data security standard payment](https://pt.pcisecuritystandards.org/_onelink_/pcisecurity/en2pt/minisite/en/docs/PA-DSS_v3.pdf)
+- [Payment Application Data Security Standard (PA-DSS) v1.2](https://pt.pcisecuritystandards.org/minisite/en/pa-dss.php)
+- [PCI Security Standards Council, LLC License Agreement (PCI DSS)](https://pt.pcisecuritystandards.org/minisite/en/pci-dss.php)
 
 [GO TO INDEX](#index)
 
