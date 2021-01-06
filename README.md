@@ -430,7 +430,7 @@ Below are lists with more content that increase the capacity of this list to x10
 
 ## Notes
 
-Space to add computing notes:
+Space to add Web Security notes:
 
 ```
 ADD NOTES HERE
