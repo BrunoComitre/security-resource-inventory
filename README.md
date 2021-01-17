@@ -331,6 +331,7 @@ Security and Web Security study projects:
 - [Welcome to the OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries)
 - [check-cve-2019-19781](https://github.com/cisagov/check-cve-2019-19781)
 - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
+- [Cloud-DevSecOps-Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md)
 
 [GO TO INDEX](#index)
 
@@ -412,6 +413,7 @@ Links from different sites:
 - [Payment card industry (PCI) Data form data security standard payment](https://pt.pcisecuritystandards.org/_onelink_/pcisecurity/en2pt/minisite/en/docs/PA-DSS_v3.pdf)
 - [Payment Application Data Security Standard (PA-DSS) v1.2](https://pt.pcisecuritystandards.org/minisite/en/pa-dss.php)
 - [PCI Security Standards Council, LLC License Agreement (PCI DSS)](https://pt.pcisecuritystandards.org/minisite/en/pci-dss.php)
+- [Secure Software Development Life Cycle (SSDLC): What is it?](https://trio.dev/blog/secure-sdlc)
 
 [GO TO INDEX](#index)
 
