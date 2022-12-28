@@ -130,7 +130,6 @@ Below is a list of paid and free books:
 Courses related to security:
 
 - [TEXT](LINK)
-- [TEXT](LINK)
 
 [GO TO INDEX](#index)
 
