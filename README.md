@@ -173,7 +173,6 @@ Below is a list of YouTube Channels, Videos I liked and Playlist to study and ke
 Below is a list of favorite sites to stay informed:
 
 - [TEXT](LINK)
-- [TEXT](LINK)
 
 [GO TO INDEX](#index)
 
