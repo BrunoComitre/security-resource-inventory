@@ -1,5 +1,7 @@
 Bookmarks
-
+ 
+ (primeiro a fazer: https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/08-Fingerprint_Web_Application_Framework)
+ 
 ### sec
 
 ### LIDOS
