@@ -430,6 +430,8 @@ Bookmarks
 
 [O que são Google dorks e como essa técnica é usada | AVG](https://www.avg.com/pt/signal/google-dorks)
 
+https://www.cisa.gov/
+
 [Tópicos de segurança do ASP.NET Core | Microsoft Learn](https://learn.microsoft.com/pt-br/aspnet/core/security/?view=aspnetcore-5.0)
 
 [O que é Bitcoin? - fiatjaf](https://fiatjaf.com/bitcoin.html)
