@@ -370,6 +370,8 @@ Bookmarks
 
 ### PARA LER
 
+[OWASP FSTM step 6: firmware emulation](https://www.tarlogic.com/blog/owasp-fstm-step-6-firmware-emulation/)
+
 [O que é OSINT? - GC Security](https://www.gcsec.com.br/o-que-e-osint/index.html)
 
 [HTTP caching - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
