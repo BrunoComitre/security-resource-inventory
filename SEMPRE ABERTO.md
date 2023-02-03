@@ -7,7 +7,6 @@
 > Para se fazer um Relatório Profissional: Sempre que possível colocar figuras, legendas e se der gráficos
 
 ### Helpers
-- [Web Application Penetration Testing Checklist – A Detailed Cheat Sheet](https://gbhackers.com/web-application-penetration-testing-checklist-a-detailed-cheat-sheet/)
 - [Top 5 REST API Security Guidelines](https://blog.restcase.com/top-5-rest-api-security-guidelines/)
 
 ### Interesting Report Templates
@@ -30,5 +29,14 @@
 - [Gerador de Referências ABNT](https://www.mybib.com/pt/ferramentas/gerador-referencias-abnt)
 - [MITRE ATT&CK](https://attack.mitre.org/)
 - [The Common Vulnerability Scoring System (CVSS)](https://www.first.org/cvss/)
+
+## Checklist
+
+- [Web Application Penetration Testing Checklist – A Detailed Cheat Sheet](https://gbhackers.com/web-application-penetration-testing-checklist-a-detailed-cheat-sheet/)
+- [WPScan – Penetration Testing Tool to Find The Security Vulnerabilities in Your WordPress Websites](https://gbhackers.com/penetration-testing-wordpress-website/)
+- [Most Important Web Server Penetration Testing Checklist](https://gbhackers.com/web-server-penetration-testing-checklist/)
+- [Most Important Network Penetration Testing Checklist](https://gbhackers.com/network-penetration-testing-checklist-examples/)
+- [ATM Penetration Testing – Advanced Testing Methods to Find The Vulnerabilities](https://gbhackers.com/advanced-atm-penetration-testing-methods/)
+- [Most Important Android Application Penetration Testing Checklist](https://gbhackers.com/penetration-testing-android-application-checklist/amp/)
 
 ---
